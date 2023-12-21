@@ -148,14 +148,14 @@
 ### Conclusion
 
 1. 총평
-
-    - Customized 모델은 Base 모델의 성능에 미치지 못했으나, Musicnet Data를 함께 훈련시킨 결과가 Maestro Data만을 훈련시킨 F1 Score보다 높게 나타남
-    - Transfer Learning 모델은 Base 모델의 F1 Score보다 높은 수치를 달성
+  
+  - Customized 모델은 Base 모델의 성능에 미치지 못했으나, Musicnet Data를 함께 훈련시킨 결과가 Maestro Data만을 훈련시킨 F1 Score보다 높게 나타남
+  - Transfer Learning 모델은 Base 모델의 F1 Score보다 높은 수치를 달성
 
 2. 소감 및 기대효과
 
-    - MusicNet 현악기 연주 데이터의 양이 많이 부족하며, 현악기 특성에 맞는 Feature Extraction(데이터 전처리)과 모델링이 필요성을 느낌
-    - Test 모델들은 대부분 음정과 박자 등의 기본요소를 Transcription 할 수 있던것으로 보아 보완사항들을 해결한다면 완성도 높은 현악기 연주 음악 MIDI 파일을 전사할 수 있을 것이라 예상함
+  - MusicNet 현악기 연주 데이터의 양이 많이 부족하며, 현악기 특성에 맞는 Feature Extraction(데이터 전처리)과 모델링이 필요성을 느낌
+  - Test 모델들은 대부분 음정과 박자 등의 기본요소를 Transcription 할 수 있던것으로 보아 보완사항들을 해결한다면 완성도 높은 현악기 연주 음악 MIDI 파일을 전사할 수 있을 것이라 예상함
     
 ### References
 
